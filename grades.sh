@@ -1,8 +1,8 @@
 read -p "Enter marks of Linux" linux
 read -p "Enter marks of Python" python
 read -p "Enter marks of DBMS" dbms
-avg=(((linux+python+dbms)/3))
-if ((avg>=70)) ; then
+avg=((( linux+python+dbms)/3 ))
+if (( avg>=70 )) ; then
 echo "A+"
 elif (( avg >= 60 && avg < 70 )); then
 echo "A"

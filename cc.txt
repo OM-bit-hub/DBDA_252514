@@ -1,0 +1,3 @@
+Cloud Computing provies services like server,computation resources,storage .
+Requires internet connection to use.
+It works on pay as you go model means only pay for resources which you  have used .
